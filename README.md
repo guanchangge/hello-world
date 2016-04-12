@@ -1,2 +1,1 @@
-# hello-world
-just another repository
+哈哈 世界我来了！
